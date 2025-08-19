@@ -1,1 +1,1 @@
-# TMA4265-Stochastic-Modelling
+# TMA4265-Stochastic-Modeling
